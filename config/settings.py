@@ -19,7 +19,7 @@ SECRET_KEY = config('SECRET_KEY')
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','mpoyifamily.herokuapp.com']
+ALLOWED_HOSTS = ['www.heroku.com','mpoyifamily.herokuapp.com']
 #ALLOWED_HOSTS = ['127.0.0.1', 'mpoyi.herokuapp.com']
 
 # Application definition
